@@ -1,4 +1,4 @@
-# Alphabetic_game (My university project)
+# Alphabetic_game (University project)
 University project, implemented in C++. 
 
 ## How to play
